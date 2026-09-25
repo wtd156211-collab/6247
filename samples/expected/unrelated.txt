@@ -1,0 +1,3 @@
+result-size 32768
+result-sha256 e04e72b39893460fdb5d403cfbd3b79ef85c155f7142ef27aaad9ba0b9da958b
+patch-max 34816
